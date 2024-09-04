@@ -1,3 +1,3 @@
 # Myprojects
 my first repository
-Athor - Arjun M P
+Author - Arjun M P
